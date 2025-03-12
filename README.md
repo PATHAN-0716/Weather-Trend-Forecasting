@@ -109,7 +109,7 @@ The dataset consists of historical weather data, including:
 
 ## 📌 Deliverables
 ✅ GitHub Repository: https://github.com/PATHAN-0716/Weather-Trend-Forecasting 
-✅ Final Report / Presentation: [Insert link here]  
+✅ Final Report / Presentation: https://github.com/PATHAN-0716/Weather-Trend-Forecasting/blob/main/%F0%9F%8C%A6%20Weather%20Trend%20Forecasting%20.pdf)  
 
 🔹 PM Accelerator Mission: Displayed in the report/dashboard
 
