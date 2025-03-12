@@ -108,11 +108,11 @@ The dataset consists of historical weather data, including:
 📂 Check the `notebooks/` folder for detailed step-by-step analyses.
 
 ## 📌 Deliverables
-✅ GitHub Repository: [Insert link here]  
+✅ GitHub Repository: https://github.com/PATHAN-0716/Weather-Trend-Forecasting 
 ✅ Final Report / Presentation: [Insert link here]  
 
 🔹 PM Accelerator Mission: Displayed in the report/dashboard
 
 ## 📧 Contact & Contributions
-👨‍💻 Developed by: [Your Name]  
+👨‍💻 Developed by: PATHAN ADILSHA KHAN  
 📩 Reach out for questions or collaboration!
